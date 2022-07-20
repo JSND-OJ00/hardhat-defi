@@ -1,4 +1,6 @@
-async function main() {}
+async function main() {
+  // the protocol treats everything as an ERC20 token.
+}
 
 main()
   .then(() => {
